@@ -1,7 +1,7 @@
 #################################################
 """
 Create an OD Cost Matrix for ArcPro
-Current ArcPro 2.3.2 NA does not allow for multiple accumulation cost values.
+Current ArcPro 2.x NA does not allow for multiple accumulation cost values.
 Using function "Make OD Cost Matrix Analysis Layer" 
 to initiate multiple accumulation cost values.
 """

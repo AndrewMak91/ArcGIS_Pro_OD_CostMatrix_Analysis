@@ -7,6 +7,10 @@ to initiate multiple accumulation cost values.
 """
 #################################################
 
+"""
+Stuff
+"""
+
 try:
     # Import libraries
     import arcpy

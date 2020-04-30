@@ -11,6 +11,8 @@ to initiate multiple accumulation cost values.
 Stuff
 
 More Stuff
+
+Even more stuff
 """
 
 try:
